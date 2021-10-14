@@ -1,3 +1,3 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/5okne82iawtrmhkx?svg=true)](https://ci.appveyor.com/project/NMKD/media-ahj)
 
-[Ссылка на GitHub Pages]()
+[Ссылка на GitHub Pages](https://nmkd.github.io/media-ahj/)
